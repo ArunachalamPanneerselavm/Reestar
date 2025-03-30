@@ -1,0 +1,72 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+.container
+{
+    padding:50px;
+}
+.reestar__head
+{
+    margin:10px;
+    padding:10px;
+    background-color:black;
+    color:white;
+    text-align: center;
+    font-size:40px;
+}
+.reestar__desc
+{
+    color:gray;
+
+}
+.reestarcontactform
+{
+    margin:10px;
+    padding:10px;
+    background-color:black;
+    color:white;
+}
+.reestarcontactform__title
+{
+    text-align:center;
+
+}
+.reestarcontactform__form
+{
+    justify-items: center;
+    
+}
+.reestarcontactform__submit
+{
+    padding:10px;
+    background-color:orange;
+    color:black;
+    border:none;
+    border-radius:5px;
+}
+.reestarcontactform__title,.reestarcontactform__input,.reestarcontactform__submit
+{
+    margin:10px;
+}
+.reestarcontactform__input
+{
+border-radius:6px;
+border: solid white 1px;
+padding-left:5px;
+}
+.Chicken__Item
+{
+
+    width:200px;
+    margin-left:5px;
+    border:solid black 3px;
+    border-radius:5px;
+    display:inline-block;
+}   
+.Chicken__Desc
+{
+    text-align: center;
+    font-size:20px;
+}
